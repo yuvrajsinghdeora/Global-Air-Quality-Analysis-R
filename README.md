@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.png" alt="Global Air Quality Analysis Banner" width="100%">
+</p>
+
+
 # 🌍 Global Air Quality Analysis Using R
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)

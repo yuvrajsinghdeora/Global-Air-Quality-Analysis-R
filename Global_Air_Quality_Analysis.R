@@ -1,22 +1,4 @@
 
-# Install Packages
-
-
-install.packages("tidyverse")
-install.packages("janitor")
-install.packages("skimr")
-install.packages("lubridate")
-install.packages("GGally")
-install.packages("corrplot")
-install.packages("plotly")
-install.packages("psych")
-install.packages("moments")
-install.packages("car")
-
-
-# Load Required Libraries
-
-
 library(tidyverse)
 library(janitor)
 library(skimr)
